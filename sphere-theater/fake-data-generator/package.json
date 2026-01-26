@@ -1,0 +1,12 @@
+{
+    "name": "sphere-data-gen",
+    "dependencies": {
+        "@faker-js/faker": "^9.0.0-alpha.0",
+        "country-list": "^2.3.0",
+        "csv-writer": "^1.6.0",
+        "date-holidays": "^3.23.12"
+    },
+    "scripts": {
+        "generate": "node data-gen.js"
+    }
+}

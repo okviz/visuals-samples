@@ -1,0 +1,10 @@
+.DS_Store
+.npmignore
+.tmp
+.vscode
+node_modules
+.api
+coverage
+webpack.statistics.dev.html
+webpack.statistics.prod.html
+dist
