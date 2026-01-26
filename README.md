@@ -1,6 +1,6 @@
-# Sample Data and Reports for Power BI
+# Sample Data for Power BI
 
-This repository contains sample data and reports for Power BI and OKVIZ custom visuals. You can use these samples to create demo reports, documentation, or other promotional materials.
+This repository contains sample data for Power BI and OKVIZ custom visuals. You can use these samples to create demo reports, documentation, or other promotional materials.
 
 ## Samples
 
